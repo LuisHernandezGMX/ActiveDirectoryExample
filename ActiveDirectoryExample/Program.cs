@@ -10,10 +10,6 @@ namespace ActiveDirectoryExample
     {
         static void Main(string[] args)
         {
-            // hernandl -> .nov2018
-            // villegasj -> .julio2018
-
-
             Console.Write("Escriba su nombre de usuario: ");
             string username = Console.ReadLine();
 
