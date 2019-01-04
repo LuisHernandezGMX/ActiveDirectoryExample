@@ -11,6 +11,7 @@ namespace ActiveDirectoryExample
         static void Main(string[] args)
         {
             // Característica que será agregada a la rama Experimental.
+            // Segunda Característica que será agregada a la rama Experimental.
 
             Console.Write("Escriba su nombre de usuario: ");
             string username = Console.ReadLine();
